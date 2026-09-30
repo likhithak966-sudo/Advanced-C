@@ -1,2 +1,2 @@
-# Advanced-C
+# C programs
 All about c language
